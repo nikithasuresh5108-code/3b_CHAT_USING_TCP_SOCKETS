@@ -35,7 +35,8 @@ while True:
 client
 <img width="1860" height="292" alt="image" src="https://github.com/user-attachments/assets/9774fdbe-5479-4588-88a1-df634d9a6bad" />
 server
-![Uploading Screenshot 2026-03-17 091813.png…]()
+<img width="1852" height="249" alt="Screenshot 2026-03-17 091813" src="https://github.com/user-attachments/assets/f8db9b5e-e5c8-4f83-98fb-30770ab6c70d" />
+
 
 
 
